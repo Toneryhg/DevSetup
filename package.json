@@ -1,0 +1,16 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "Mon premier environnement de développement — Formation Semaine 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": ["formation", "devsetup", "environnement"],
+  "author": "MALONGA Saint Chalbhery",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
